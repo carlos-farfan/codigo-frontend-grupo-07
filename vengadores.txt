@@ -1,20 +1,23 @@
 Iron man
 Capitan America
 Thor
-Hombre Araña
-Bruja escarlata
-Pantera Negra
+Hombre Araña  -- Desaparece
+Bruja escarlata  -- Desaparece
+Pantera Negra  -- Desaparece
 Hulk
-Doctor Strage
+Doctor Strage  -- Desaparece
 Ojo de Halcón
-Visión
-AntMan
+Visión  -- Muere dos veces
+AntMan  -- Munbdo quantico
 Nebula
-Gamora
-Soldado del Invierno
-Groot
-Falcon
+Gamora  --  Muere
+Soldado del Invierno  -- Desaparece
+Groot  -- Desaparece
+Falcon  -- Desaparece
 Maquina de Guerra
 Rocket
-Nock Fury
+Nick Fury
 Stard Lord
+Maria Hill
+Drax
+Mantis
