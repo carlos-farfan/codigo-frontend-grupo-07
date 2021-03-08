@@ -1,0 +1,42 @@
+commit 00128d53e6975029024208d853aa7b7233f544b1
+Merge: d0074c0 6132f11
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 18:34:40 2021 -0600
+
+    regresar
+
+commit d0074c063f50ce914fb699efd415b6af2c49789a
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 18:26:49 2021 -0600
+
+    vengadores estaban en el pasado
+
+commit 6132f11a7fb4c431a3e85e7ed08bde045c6007ae
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 18:20:36 2021 -0600
+
+    grupo 01 optienen las gemas
+
+commit 118c300230e4e1860ea2eb7de727e0ad88337768
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 18:06:49 2021 -0600
+
+    AntMan regresa
+
+commit fb3756e54078951e0574904b9beeb87bae62594d
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 18:00:34 2021 -0600
+
+    Aparece la Capitana Marvel
+
+commit 09647f2835de0f1ca7b1e772e5c4e5a0362a9e66
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 17:59:21 2021 -0600
+
+    Thanos gana, perdimos vengadores
+
+commit 1968c80456782d2af760a585284f8d72b9071a3c
+Author: carlos-farfan <79650604+carlos-farfan@users.noreply.github.com>
+Date:   Sun Mar 7 17:48:26 2021 -0600
+
+    vengadores-unidos
